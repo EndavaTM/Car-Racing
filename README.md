@@ -1,30 +1,3 @@
-# [react-threejs-car-racing](https://react-threejs-car-racing.vercel.app)
-
-<br />
-<img src="https://github.com/sctlcd/react-threejs-car-racing/blob/main/design/react-threejs-car-racing-preview.png" alt="react-threejs-car-racing" width="800">
-<br />
-
----
-
-# Table of Contents <a name="tableOfContents"></a>
-
-1. [Introduction](#introduction)
-
-2. [Run the project locally](#runLocally)
-
-3. [Available Scripts](#availableScripts)
-
-4. [Deployment](#deployment)
-
-   - [Deployment – Run locally](#deploymentRunLocallydeploymentRunLocally)
-   - [Deployment – Live website](#deploymentLiveWebsite)
-
-5. [Credits](#credits)
-
-   - [Media](#media)
-
----
-
 ## Introduction <a name="introduction"></a>
 
 Creating a desktop Car racing game [React](https://reactjs.org/), [Three.js](https://threejs.org/), [React Three Fiber](https://github.com/pmndrs/react-three-fiber), [React Three Drei](https://github.com/pmndrs/drei), [React Three Cannon](https://github.com/pmndrs/use-cannon).
@@ -144,7 +117,7 @@ Back to [top](#tableOfContents)
 
 #### Firebase <a name="#firebase"></a>
 
-[react-threejs-car-racing](https://github.com/sctlcd/react-threejs-car-racing) live website is currently deployed on [Firebase](https://firebase.google.com/) using the `main` branch on GitHub. Once you have the project setup locally, you can proceed to deploy it remotely.
+Car-Racing live website is currently deployed on [Firebase](https://firebase.google.com/) using the `main` branch on GitHub. Once you have the project setup locally, you can proceed to deploy it remotely.
 
 1. Install Firebase CLI Tools, [firebase-tools](https://www.npmjs.com/package/firebase-tools)
 
